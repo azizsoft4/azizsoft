@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="60" width="60" viewBox="0 0 60 60">
+
+
+<polygon fill="none" stroke="#555" points="29,8 51,20 51,40 29,52 8,40 8,20"/>
+<g fill="#111" stroke-linejoin="round" stroke="#999"><polygon id="s" points="30,5 54,17 54,32 30,20"/>
+<use href="#s" style="transform:rotatex(180deg)translate(0,-49px);"/>
+<use href="#s" style="transform:translate(-29px,23px);"/>
+<use href="#s" style="transform:rotatey(180deg)translate(-55px,11px);"/>
+
+
+</g></svg>
