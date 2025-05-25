@@ -2,7 +2,7 @@
 a{text-decoration:none;color:unset;}
 img{max-width:100%;}
 .icon{background: no-repeat 0 0/1100% url(https://upload.wikimedia.org/wikipedia/commons/b/b3/Aicons.svg);}
-.n{display:none !important;}
+.n{display:none;}
 .l{display:inline-block;vertical-align:top;}
 .o{height:0 !important;opacity:0 !important;overflow:clip;}
 .z{overflow:hidden;}
