@@ -1,9 +1,10 @@
 *{margin:0;padding:0;border:0;outline:0;box-sizing:border-box;opacity:1;}
 .t{transition:all .5s ease;}
+.shd{box-shadow: 0 0 0 100vw #000a;}
 a{text-decoration:none;color:unset;}
 img{max-width:100%;}
 .icon{background: no-repeat 0 0/1100% url(https://upload.wikimedia.org/wikipedia/commons/b/b3/Aicons.svg);}
 .n{display:none !important;}
 .l{display:inline-block;vertical-align:top;}
-.o{height:0 !important;opacity:0 !important;overflow:hidden;}
+.o{height:0 !important;opacity:0 !important;overflow:clip;}
 .z{overflow:hidden;}
