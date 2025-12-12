@@ -1,0 +1,31 @@
+.w_l_download {
+display:block;
+    width:fit-content;
+    margin:auto; 
+    border:2px solid #222;
+    color:#fff;
+    padding:10px 50px; 
+    font-weight:bold;
+    border-radius:8px;
+    text-decoration:none; 
+    background:linear-gradient(110deg,#8d8 40%,#efe 50%,#8d8 60% );
+    background-size:200%; 
+    background-position:120% 0;
+	transition:all 0.5s ease;
+position:relative;
+	
+}
+.w_l_download:hover{background-position:-20% 0;
+
+}
+
+
+.w_l_download::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  height: 100%;
+  aspect-ratio: 1;
+  right: 0;
+  
+}
