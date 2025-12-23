@@ -1,0 +1,21 @@
+:root {
+--primary: #235;
+--secondary: #39d;
+--light: #fff;
+--dark: #235;
+--gray: #677;
+--border: #dee;
+}
+
+*{margin:0;padding:0;border:0;outline:0;box-sizing:border-box;opacity:1;}
+.t{transition:all .5s ease;}
+a{text-decoration:none;color:unset;}
+img{max-width:100%;}
+
+.icon_after{position:relative;}
+.icon_after::after , .icon{background: no-repeat 0 0/1100% url(https://upload.wikimedia.org/wikipedia/commons/b/b3/Aicons.svg);aspect-ratio:1;vertical-align:top;}
+.icon_after::after{content:'';position:absolute;left:10%;top:10%;width:80%;}
+.n{display:none !important;}
+.l{display:inline-block;vertical-align:top;}
+.o{height:0 !important;opacity:0 !important;overflow:clip;}
+.z{overflow:hidden;}
