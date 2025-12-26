@@ -20,11 +20,13 @@ img{max-width:100%;}
 .o{height:0 !important;opacity:0 !important;overflow:clip;}
 .z{overflow:hidden;}
 
+
 .sidebar .widget,.w_box1{
 background: white;
 margin-bottom: 20px;
-box-shadow: 0 0 3px #ddd;
+border: 1px solid #eee;
 }
+
 
 
 .w_l_download {
@@ -58,5 +60,3 @@ position:relative;
   right: 0;
   
 }
-
-
