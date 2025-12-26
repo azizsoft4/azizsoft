@@ -20,15 +20,11 @@ img{max-width:100%;}
 .o{height:0 !important;opacity:0 !important;overflow:clip;}
 .z{overflow:hidden;}
 
-
-   .w_box1{
-background:white;
-border-radius:8px;
-overflow:hidden;
-margin-bottom:20px;
-box-shadow:0 0 3px #ddd;
+.sidebar .widget,.w_box1{
+background: white;
+margin-bottom: 20px;
+box-shadow: 0 0 3px #ddd;
 }
-
 
 
 .w_l_download {
@@ -62,4 +58,5 @@ position:relative;
   right: 0;
   
 }
+
 
